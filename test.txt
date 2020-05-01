@@ -1,0 +1,32 @@
+.single-product h1 {
+	font-size: 30px;
+}
+
+.title-block {
+	padding: 2em 0 0 0;
+}
+.title-block h1 {
+	font-size: 1.2em;
+	text-align: center;
+}
+
+.product-category-block .product-block ul li {max-width: 230px; margin: 0 auto; float: none;}
+.product-box {padding: 0;}
+.product-image {padding-top: 0;}
+.prodtitle h2{border-bottom: none !important;}
+.product-category-block .section-title {text-align: center;}
+
+.wp-block-column {
+	float:left!important;
+	width:50%!important;
+	margin:0!important
+}
+
+@media only screen and (max-width: 667px) {
+	.wp-block-column {
+	     width:100%!important;
+	}
+}
+
+
+
